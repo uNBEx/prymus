@@ -1,3 +1,10 @@
 body {
   background: #00bfff;
 }
+p {
+  color: white;
+}
+div.sidebar {
+  float: left;
+  width: 300px;
+}
