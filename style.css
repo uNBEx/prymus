@@ -6,12 +6,26 @@ p {
 }
 div.sidebar {
   float: left;
-  width: 300px;
+  width: 200px;
 }
 div.content {
-  margin-left: 300px;
+  margin-left: 200px;
 }
 div.content img {
   width: 100%;
+}
+div.sidebar a:link, div.sidebar a:visited {
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-style: solid;
+  border-width: thin thin thin 10px;
+  border-color: black;
+  width: 150px;
+  margin-bottom: 10px;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
