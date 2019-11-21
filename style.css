@@ -1,5 +1,5 @@
 body {
-  background: red;
+  background: #34bdeb;
 }
 p {
   color: white;
@@ -8,3 +8,10 @@ div.sidebar {
   float: left;
   width: 300px;
 }
+div.content {
+  margin-left: 300px;
+}
+div.content img {
+  width: 100%;
+}
+
